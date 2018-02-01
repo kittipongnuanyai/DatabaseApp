@@ -18,6 +18,7 @@
             android:layout_alignParentBottom="true"
             android:layout_alignParentStart="true"
             android:background="@android:color/transparent"
+            android:onClick="Registration_activity"
             android:text="Sing Up"
             android:textColor="@android:color/holo_orange_light" />
 

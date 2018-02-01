@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="icon_login">180dp</dimen>
+    <dimen name="h1">30sp</dimen>
+    <dimen name="h2">20sp</dimen>
 
 </resources>
