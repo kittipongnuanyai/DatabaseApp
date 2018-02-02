@@ -19,5 +19,9 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(new Intent(LoginActivity.this,RegisActivity.class));
     }
 
+    public void clickSingIn(View view) {
+        startActivity(new Intent(LoginActivity.this, MainActivity.class));
+    }
+
 
 }

@@ -214,6 +214,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:background="#ec7d372a"
+            android:onClick="clickSingUp"
             android:text="Sing up"
             android:textColor="@android:color/holo_orange_light"
             android:textStyle="bold" />
